@@ -1,2 +1,11 @@
 # flipkartbrowser-testautomation
-Please find my individual flipkart automation using Selenium Java. This is only for educational purposes
+ This is only for educational purposes
+
+This is a sample Selenium automation project for testing Flipkart product searches using:
+
+- Java 17
+- TestNG
+- Maven
+- WebDriverManager
+- Apache POI (Excel DataProvider)
+- Allure
